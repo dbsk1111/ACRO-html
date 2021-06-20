@@ -459,9 +459,7 @@ header .search .search_wrap form button {
 }
 
 header .search .search_wrap ol {
-  margin-top: 30px;
   margin-left: 30px;
-  text-indent: -23px;
 }
 
 header .search .search_wrap ol li {
