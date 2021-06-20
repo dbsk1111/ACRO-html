@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@font-face {
+  font-family: "Didot LT STD";
+  src: url("../fonts/Didot-Bold.woff2") format("woff2"), url("../fonts/Didot-Bold.woff") format("woff"), url("../fonts/Didot-Bold.ttf") format("truetype");
+}
+body{
+  color: $fontColor;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 300;
+  word-break: keep-all;
+}
+a{
+  color: $fontColor;
+}
+ul{
+  list-style: none;
+}
+
+input, button{
+  outline: none;
+  background: none;
+  border: none;
+}

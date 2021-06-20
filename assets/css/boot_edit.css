@@ -1,0 +1,18 @@
+.nav{
+  position: absolute;
+}
+.nav.left{
+  left: 5.5%;
+}
+.nav.right{
+  right: 5.5%;
+}
+
+@media screen and ( max-width: 991px ){
+  .nav.left{
+    left: 0;
+  }
+  .nav.right{
+    right: 0;
+  }
+}

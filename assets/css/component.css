@@ -1,0 +1,17 @@
+.bold {
+  font-weight: 500;
+}
+.font-color-light{
+  color: #fontColorLight;
+}
+
+.search_button{
+  float: left;
+  display: inline-block;
+  margin-left: 15px;
+  padding: 0;
+  width: 60px;
+  height: 60px;
+  text-indent: -9999px;
+  background: url('../img/search.svg') no-repeat center center / 22px 23px;
+}
